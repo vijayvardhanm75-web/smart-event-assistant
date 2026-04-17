@@ -1,4 +1,6 @@
 # Smart Event Assistant
+## Live Preview
+This project demonstrates the working logic through code and simulated outputs available in this repository.
 
 ## Problem
 In large events like stadiums or concerts, people often face long waiting times, overcrowded entry gates, and confusion while navigating inside the venue. This affects the overall experience and sometimes even safety.
