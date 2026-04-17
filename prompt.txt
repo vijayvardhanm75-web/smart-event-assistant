@@ -1,0 +1,27 @@
+You are an expert in smart city solutions and event management.
+
+Task: Design an innovative AI-powered system to improve the physical event experience at large-scale venues like stadiums.
+
+Requirements:
+- Solve crowd movement issues
+- Reduce waiting times
+- Enable real-time coordination
+- Ensure smooth and enjoyable attendee experience
+
+Constraints:
+- Solution must be practical and scalable
+- Use modern technologies (AI, IoT, mobile apps)
+
+Steps:
+1. Identify key problems faced by attendees
+2. Propose a complete system solution
+3. Explain how it works step-by-step
+4. Highlight technologies used
+5. Explain benefits and real-world impact
+
+Output format:
+- Problem
+- Solution
+- Features
+- Technology Stack
+- Impact
