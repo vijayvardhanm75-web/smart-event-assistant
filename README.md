@@ -47,3 +47,9 @@ I wanted to create something practical rather than theoretical. Crowd problems a
 - Improves crowd flow  
 - Enhances overall event experience  
 - Can be extended into a real-world application
+
+## Assumptions
+
+- Real-time crowd data is available from sensors or inputs  
+- Users have access to a mobile interface  
+- Basic infrastructure exists for data collection 
